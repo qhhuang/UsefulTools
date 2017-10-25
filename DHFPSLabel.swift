@@ -1,6 +1,7 @@
 //
 //  DHFPSLabel.swift
-//  bd
+//  FPS指示器
+//  Powered by YYKit
 //
 //  Created by qhhuang on 2017/10/25.
 //  Copyright © 2017年 qhhuang. All rights reserved.
